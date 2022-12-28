@@ -5,13 +5,13 @@
 
 # Full Capture
 
-Skins
-Rank
-Last Play
-Region
-Email
-VP
-RP
+- Skins
+- Rank
+- Last Play
+- Region
+- Email
+- VP
+- RP
 
 # Screenshot
 
